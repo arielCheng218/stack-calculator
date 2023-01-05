@@ -1,0 +1,25 @@
+BINARY OPERATIONS (a b) -> b is the last number entered
++   adds a and b
+-   subtracts a from b
+*   multiplies a and b
+/   divides b over a 
+%   a modulus b 
+**  b to the power of a 
+//  b integer division a 
+gcd greatest common denominator of a and b 
+lcm lowest common multiple of a and b 
+|   performs OR operation on the bits of a and b => converts back to decimal
+&   performs AND operation on the bits of a and b => converts back to decimal 
+^   performs XOR operation on the bits of a and b => converts back to decimal
+
+UNARY OPERATIONS (a)
+||	takes absolute value of a 
+√		a to the power of 1/2
+++	increments a by 1
+--	decrements a by 1 
+sin,	apply trig_func(a)
+cos, 
+tan, 
+sec, 
+csc, 
+cot	
