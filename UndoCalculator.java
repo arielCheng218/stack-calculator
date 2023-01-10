@@ -16,8 +16,8 @@ import java.util.Stack;
  * 								(op) first_num.
  * 
  * Special commands
- * - At any point, if you want to see what the stack looks like, output RETURN.
- * - Type EXIT to exit the program.
+ * - At any point, if you want to see what the stack looks like, input RETURN.
+ * - Type EXIT to stop the program.
  * - Type REDO to redo an operation and UNDO to undo an operation.
  * 
  * How the calculator works
